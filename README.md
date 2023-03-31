@@ -8,6 +8,12 @@
 
 ​																 	  **recursion!**
 
+author：kyshen
+
+2023/2/16
+
+https://gitee.com/kyshen/dsss
+
 ## 使用说明
 
 编译运行程序，终端会提示 **请输入塔数：**
